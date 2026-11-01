@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF5500,100:0D1117&height=220&section=header&text=ARMIN&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Network%20Security%20%E2%80%A2%20AI%20%E2%80%A2%20DevOps%20%E2%80%A2%20Vibe%20Coding&descAlignY=58&descAlign=50&descSize=18" alt="Header Banner" width="100%" />
 
-<p align="center">
-  <a href="#-معرفی-و-دیدگاه-مهندسی-فارسی"><b>🇮🇷 بخش فارسی</b></a> &nbsp;•&nbsp;
-  <a href="#-system-architecture--engineering-hud-english"><b>🇬🇧 English Overview</b></a> &nbsp;•&nbsp;
-  <a href="#-ارتباط-مستقیم--direct-transmission"><b>📡 ارتباط مستقیم</b></a>
-</p>
-
 <a href="https://github.com/armindev3027">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=680&lines=%F0%9F%9B%A1%EF%B8%8F+Network+%26+Security+Architect+%7C+OpenVPN+3+%26+SoftEther;%F0%9F%A4%96+AI+Systems+%26+Autonomous+Bot+Engine;%E2%9A%A1+DevOps+%26+Resilient+Cloud+Infrastructure;%F0%9F%93%B1+Android+Core+Developer+%7C+Compose+%26+Native+C%2B%2B;%F0%9F%9A%80+Mastering+High-Velocity+Vibe+Coding+%26+Shipping+Fast" alt="Typing SVG" />
 </a>
@@ -36,62 +30,7 @@
 
 ---
 
-<div dir="rtl">
-
-## 🇮🇷 معرفی و دیدگاه مهندسی (فارسی)
-
-من **آرمین** هستم؛ معمار نرم‌افزار و توسعه‌دهنده با تمرکز ویژه بر **امنیت شبکه و پروتکل‌های رمزنگاری**، **توسعه هسته کلاینت‌های اندروید**، **هوش مصنوعی و اتوماسیون داده** و رویکرد توسعه سریع **وایب‌کدینگ (Vibe Coding)**.
-
-هدف و علاقه اصلی من، توسعه سامانه‌هایی است که در شرایط پرنوسان شبکه، بالاترین ضریب پایداری، کمترین تأخیر و امنیت بدون نشت ارائه کنند. همچنین با اتکا به مفهوم نوین **Vibe Coding**، فاصله میان ایده اولیه تا تحویل نسخه عملیاتی پروداکشن را با هم‌افزایی توان فنی انسانی و ابزارهای خط مقدم هوش مصنوعی به حداقل می‌رسانم؛ بدون آنکه کمترین ضعفی در امنیت، معماری تمیز و مقیاس‌پذیری زیرساخت ایجاد شود.
-
----
-
-### 🛡️ ارکان چهارگانه تخصص من
-
-<table dir="rtl">
-<tr>
-<td width="50%" valign="top">
-
-#### 🌐 ۱. مهندسی شبکه و پروتکل‌های ضدانسداد
-- **موتورهای بومی OpenVPN 3 و SoftEther:** حذف شبیه‌سازهای مصنوعی و اتصال مستقیم ترافیک به هسته نیتیو C++ با کمترین سربار پردازنده و سوییچ سریع سرورها.
-- **استخر هوشمند DNS با حافظه مسیر (Path Memory):** تفکیک سلسله‌مراتبی (Google ← Cloudflare ← شکن ← مخابرات ← ۴۰۳ ← رادار ← Quad9 ← DoH) برای تضمین حل‌نام دامنه در اختلالات اینترنت.
-- **ایزوله‌سازی سشن و امنیت داده:** مسدودسازی نشت IPv6/DNS، ماسک هوشمند IP در رویدادها و نگهداری اطلاعات حساس احراز هویت در حافظه رم بدون نگاشت روی دیسک.
-
-</td>
-<td width="50%" valign="top">
-
-#### 📱 ۲. مهندسی کلاینت‌های اندروید (Android Core)
-- **رابط کاربری پیشرفته Jetpack Compose:** پیاده‌سازی ۱۰۰٪ اعلانی با انیمیشن‌های ۶۰ فریم، چیدمان واکنش‌گرا و پالت‌های تاریک OLED برای کاهش چشمگیر مصرف باتری.
-- **رمزنگاری سخت‌افزاری:** استفاده از `Android KeyStore` سخت‌افزاری با استاندارد AES-256 و تدابیر پیشرفته ضد مهندسی معکوس.
-- **بهینه‌سازی خط لوله R8 و WebP:** فشرده‌سازی بایت‌کد و کاهش بیش از ۳۰٪ حجم بسته نصبی همراه با ارتقای سرعت لود دارایی‌های گرافیکی.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 ۳. هوش مصنوعی، اتوماسیون و بات‌ها
-- **زیرساخت‌های نامتقارن (Async) بات:** طراحی موتورهای پرسرعت تلگرام و بله با قابلیت پردازش بلادرنگ و پایداری در صف‌های سنگین.
-- **پلتفرم اختصاصی Leadgram CRM:** پردازش و پاسخ‌دهی هوشمند به کامنت‌ها و هدایت آن‌ها به دایرکت (Comment-to-DM) برای اتوماسیون فروش و تعامل.
-- **تلفیق مدل‌های زبانی پیشرو (LLM):** استفاده روزمره از هوش مصنوعی برای تولید، بازبینی کد و معماری خودکار تست‌ها.
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡ ۴. دواپس و فرهنگ وایب‌کدینگ (Vibe Coding)
-- **چرخه انتشار مداوم (CI/CD):** خودکارسازی بیلدها، بررسی استاتیک کد و انتشار مستقیم پکیج‌های نهایی با GitHub Actions.
-- **توسعه با سرعت نور (High-Velocity Flow):** شکستن مرزهای توسعه مرسوم با حفظ تمرکز در وضعیت Flow و اجرای سریع پروتوتایپ تا نسخه نهایی.
-- **سرویس‌های تاب‌آور لینوکس:** فورواردرهای GRE/TCP، کانفیگ تونل‌های ترافیکی و بهینه‌سازی پارامترهای سوکت در کرنل لینوکس.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🇬🇧 System Architecture & Engineering HUD (English)
+### 🖥️ Security Operations & Engineering HUD `[armin@nexus-core]`
 
 ```bash
 ┌──(armin㉿nexus-core)-[~]
@@ -125,6 +64,49 @@ Disciplines:
     - Stack: Kotlin, Jetpack Compose, Material 3, C++ JNI
     - Security: Android KeyStore (Hardware AES-256), R8 Aggressive Obfuscation
 ```
+
+---
+
+### 🧬 Core Engineering Pillars
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ 01. Network Security & Stealth Protocols
+- **Hardware-Accelerated VPN:** Direct OpenVPN 3 C++ integration for sub-second failover and session UID isolation.
+- **Resilient DNS Pool:** Hierarchical fallback (Google → Cloudflare → Shecan → TCI → System → Radar → Quad9 → DoH) with path memory.
+- **Zero-Leak Policy:** IP masking, IPv6 leak prevention, and memory-only credential lifecycle.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 02. Artificial Intelligence & Automation
+- **Autonomous Bot Infrastructure:** High-concurrency Telegram and Bale assistants with asynchronous stream handling.
+- **Social CRM Automation:** Leadgram engine for automated Comment-to-DM flows and customer intelligence.
+- **AI-Powered Workflows:** Deep integration of frontier models into daily development and testing.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ 03. DevOps & Cloud Resilience
+- **CI/CD Pipelines:** Automated linting, test suites, and GitHub Releases with APK artifact packaging.
+- **Linux Socket & Tunneling:** GRE-TCP forwarders, customized NGINX routing, and zero-downtime service design.
+- **Hardened Servers:** Principle of least privilege, strict firewalls, and optimized kernel parameters.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 04. Vibe Coding & Rapid Prototyping
+- **Flow State Engineering:** Taking complex systems from concept to production-grade deployment at unmatched speed.
+- **Modern Android Craftsmanship:** 100% Jetpack Compose, 60fps animations, WebP optimization, and adaptive themes.
+- **Iterative Mastery:** Combining human domain architecture with AI velocity.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -183,7 +165,7 @@ Disciplines:
 
 ---
 
-### 📡 ارتباط مستقیم / Direct Transmission
+### 📡 Direct Frequency & Transmission
 
 <div align="center">
 
@@ -201,7 +183,7 @@ Disciplines:
   </a>
 </p>
 
-<sub><i>«کیفیت در مهندسی نرم‌افزار، حاصل امنیت سرسختانه، سادگی و بازبینی بی‌وقفه است.»</i></sub>
+<sub><i>"Quality software is forged through security, clarity, and relentless refinement."</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF5500,100:0D1117&height=100&section=footer" width="100%" />
 
